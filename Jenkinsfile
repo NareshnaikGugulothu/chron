@@ -2,7 +2,7 @@ pipeline {
     agent any
 
     environment {
-        function_name = 'naresh jenkins'
+        function_name = 'nareshjenkins'
     }
 
     stages {
